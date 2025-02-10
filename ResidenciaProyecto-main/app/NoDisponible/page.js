@@ -1,11 +1,9 @@
 "use client";
-import React from "react";
+import Image from "next/image";
+import Footer from "../components/Footer";
 import Overhead from "../components/Overhead";
 import OverheadMenu from "../components/OverheadMenu";
 import SubMenu from "../components/Submenu";
-import BannerPublicitarios from "../components/BannerPublicitario";
-import Image from "next/image";
-import Footer from "../components/Footer";
 
 export default function NoDisplonible() {
   return (
@@ -33,7 +31,7 @@ export default function NoDisplonible() {
             posible.
           </p>
         </div>
-        <BannerPublicitarios />
+        {/* <BannerPublicitarios /> */}
       </div>
       <hr className="bg-white h-0.5" />
       <Footer />

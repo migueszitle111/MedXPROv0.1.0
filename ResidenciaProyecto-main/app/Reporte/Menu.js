@@ -20,33 +20,33 @@ export default function Perfil() {
                   Neuronopatía
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Radiculopatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Radiculopatía
                 </button>
               </a>
             
-              <a href="./Reporte/Tipos/Plexopatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Plexopatía
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Neuropatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Neuropatía
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Polineuropatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Polineuropatía
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Union_Neuromuscular">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Unión Neuromuscular
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Miopatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Miopatía
                 </button>

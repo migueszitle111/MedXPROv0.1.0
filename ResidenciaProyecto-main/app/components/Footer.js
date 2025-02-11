@@ -86,7 +86,7 @@ const Footer = () => {
           href="#"
           className="text-gray-700 hover:text-orange-600 dark:text-gray-500 hover:dark:text-c44900"
         >
-          Aviso de privacidad
+          v0.1.0
         </a>
       </div>
     </footer>

@@ -13,7 +13,7 @@ export default function SubMenuE() {
                 <hr className="bg-white h-0.5" />
                 {/*Grid of buttons*/}
                 <div className="grid rid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-4 mt-6">
-                <a href="./Tecnicas/Componentes/Neurografia">
+                <a href="./NoDisponible">
                     <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-base overflow-hidden">
                     Neurografía
                     </button>

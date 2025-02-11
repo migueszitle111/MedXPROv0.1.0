@@ -15,7 +15,7 @@ export default function Perfil() {
             <hr className="bg-white h-0.5" />
             {/*Grid of buttons*/}
             <div className="grid rid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
-              <a href="./Reporte/Tipos/Neuronopatia">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Neuronopatía
                 </button>
@@ -83,27 +83,27 @@ export default function Perfil() {
 
             {/* Boton con ruta */}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
-              <a href="./Reporte/Tipos/Visual">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Visual
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Auditiva">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Auditiva
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Somatosensorial">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Somatosensorial
                 </button>
               </a>
-              <a href="./Reporte/Tipos/Motores">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Motora Corticoespinal
                 </button>
               </a>
-              <a href="./Reporte/Tipos/TrigeminoFacial">
+              <a href="./NoDisponible">
                 <button className="bg-black text-white text-center py-3 rounded-md hover:bg-gray-900 w-full text-xs overflow-hidden">
                   Trigémino-Facial
                 </button>

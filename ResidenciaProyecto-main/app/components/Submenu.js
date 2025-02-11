@@ -30,22 +30,22 @@ const Submenu = () => {
     {
       name: "Perlas",
       imagen: "/assets/SubmenuSvg/Perlas.svg",
-      path: "/Perlas",
+      path: "/NoDisponible",
     },
     {
       name: "Ultrasonidos",
       imagen: "/assets/SubmenuSvg/Ultrasonido.svg",
-      path: "/Ultrasonido",
+      path: "/NoDisponible",
     },
     {
       name: "Monitoreo",
       imagen: "/assets/SubmenuSvg/Monitoreo.svg",
-      path: "/Monitoreo",
+      path: "/NoDisponible",
     },
     {
       name: "Patrocinio",
       imagen: "/assets/SubmenuSvg/Patrocinio.svg",
-      path: "/Patrocinio",
+      path: "/NoDisponible",
     },
   ];
 

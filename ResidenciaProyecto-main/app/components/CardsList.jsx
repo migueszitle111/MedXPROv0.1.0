@@ -127,9 +127,11 @@ const CardsList = () => {
                       fontFamily: "Monteserrat, sans-serif",
                       color: "#808080",
                       overflow: "hidden",   // Oculta el exceso de contenido
-                      maxWidth: "400px",
+                      maxWidth: "300px",
+                      maxHeight: "100px",
+
                     }}
-                    className="text-white text-justify mt-1"
+                    className="text-white text-justify mt-1 text-sm"
                   >
                     {t.description}
                   </div>
